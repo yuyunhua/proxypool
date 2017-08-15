@@ -1,0 +1,4 @@
+rootProject.name = 'proxypool'
+include 'agent'
+include 'web'
+
